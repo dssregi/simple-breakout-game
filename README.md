@@ -2,6 +2,10 @@
 
 A modern C++ implementation of the classic Breakout game, featuring clean architecture, resource management, and smooth gameplay using [SFML](https://www.sfml-dev.org/). The project is built with CMake for easy cross-platform compilation.
 
+
+<img width="531" height="483" alt="image" src="https://github.com/user-attachments/assets/7f8b8c7b-790f-4439-9f94-6aec4f9d326a" />
+
+
 ## Features
 
 - **Modern C++**: Utilizes C++17/20 features such as smart pointers, `std::optional`, and structured bindings.
