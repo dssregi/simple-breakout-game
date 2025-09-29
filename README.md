@@ -25,7 +25,7 @@ A modern C++ implementation of the classic Breakout game, featuring clean archit
 
 - C++17 or newer compiler (e.g., GCC, Clang, MSVC)
 - [CMake](https://cmake.org/) 3.10+
-- [SFML](https://www.sfml-dev.org/) 2.5+
+- [SFML](https://www.sfml-dev.org/) 3.0+
 
 ### Building
 
@@ -48,6 +48,7 @@ Place your font and texture files in the `res/` directory. Example resources:
 
 - **Code Inspiration**: Final course project from James Raynard [Modern C++: From Intermediate to Advanced](https://github.com/JamesRaynard/Learn-Modern-Advanced-Cpp) by Udemy (https://www.udemy.com/course/learn-intermediate-modern-c/).
 - **SFML**: [SFML - Simple and Fast Multimedia Library](https://www.sfml-dev.org/)
+- **CPPReference**: [CPPReferece - C++ Reference](https://www.cppreference.com/)
 - **Font**: [FreeSans](https://www.gnu.org/software/freefont/) (GNU FreeFont, SIL Open Font License)
 - **Textures**: Created by project contributors or sourced from open/free repositories (see `res/` for attributions).
 
